@@ -1,11 +1,16 @@
 # Hi, I’m Erick Lopez! @ericklopezdev
-- 👀 I’m interested in ...
+### Computer Science Student at OCCC
+
+#### <a href="https://ericklopez.dev">Personal Website</a>
+
+- I’m interested in ...
   - Mobile App Development
   - Web Development
-- 🌱 I’m currently learning ...
+- I’m currently learning ...
   - React Native
-  - AWS
-- 📫 How to reach me ...
+  - Flutter
+  - Next.js
+- How to reach me ...
   - email: contactme@ericklopez.dev
 
 <!---
