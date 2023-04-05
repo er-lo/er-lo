@@ -1,7 +1,6 @@
 # Hi, I’m Erick Lopez! @ericklopezdev
 ### Computer Science Student at OCCC
 
-#### <a href="https://ericklopez.dev">Personal Website</a>
 
 - I’m interested in ...
   - Mobile App Development
