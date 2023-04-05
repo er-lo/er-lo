@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ericklopezdev
+# Hi, I’m Erick Lopez! @ericklopezdev
 - 👀 I’m interested in ...
   - Mobile App Development
   - Web Development
