@@ -1,16 +1,20 @@
-# Hi, I’m Erick Lopez! @ericklopezdev
+# Hi, I’m Erick Lopez!
 ### Computer Science Student at OCCC
 
+English / Spanish
 
-- I’m interested in ...
+- Interested in ...
   - Mobile App Development
   - Web Development
-- I’m currently learning ...
+  - Keyboards
+- Currently learning ...
   - React Native
   - Flutter
-  - Next.js
-- How to reach me ...
+  - React
+- Reach me ...
   - email: contactme@ericklopez.dev
+  - insta: earlgreydev
+  - threads: earlgreydev
 
 <!---
 ericklopezdev/ericklopezdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
