@@ -7,6 +7,7 @@ English / Spanish
   - Mobile App Development
   - Web Development
   - Keyboards
+  - Gaming
 - Currently learning ...
   - React Native
   - Flutter
@@ -15,6 +16,9 @@ English / Spanish
   - email: contactme@ericklopez.dev
   - insta: earlgreydev
   - threads: earlgreydev
+- Involved in...
+  - OCCC Esports (Apex Legends)
+  - OCCC Computer Science Tutor
 
 <!---
 ericklopezdev/ericklopezdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
