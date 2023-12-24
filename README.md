@@ -1,5 +1,5 @@
 # Hi, I’m Erick Lopez!
-### Computer Science Student at OCCC
+### Computer Science Student at OSU
 
 English / Spanish
 
@@ -7,18 +7,15 @@ English / Spanish
   - Mobile App Development
   - Web Development
   - Keyboards
-  - Gaming
-- Currently learning ...
-  - React Native
+- Currently working in ...
   - Flutter
+- Currently learning ...
   - React
+  - Next.js
 - Reach me ...
   - email: contactme@ericklopez.dev
   - insta: earlgreydev
-  - threads: earlgreydev
-- Involved in...
-  - OCCC Esports (Apex Legends)
-  - OCCC Computer Science Tutor
+
 
 <!---
 ericklopezdev/ericklopezdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
