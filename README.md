@@ -9,6 +9,7 @@ English / Spanish
   - Keyboards
 - Currently working in ...
   - Flutter
+  - React Native
 - Currently learning ...
   - React
   - Next.js
