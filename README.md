@@ -15,7 +15,7 @@ English / Spanish
   - Next.js
 - Reach me ...
   - email: contactme@ericklopez.dev
-  - insta: earlgreydev
+  - insta: erlo.dev
 
 
 <!---
