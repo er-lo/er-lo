@@ -52,19 +52,13 @@ Hi! My name is Erick Lopez. I am a software developer with a passion for develop
 
 ## Github Stats  
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=er-lo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=er-lo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=er-lo&&style=flat-square)  
   
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=lsagky93yxyd1ol2c9v6vtrdf&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)  
 
 <br/>  
-
-
-<br />
